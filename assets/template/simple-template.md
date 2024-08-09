@@ -3,11 +3,12 @@ layout: post
 title: Quick markdown example
 subtitle: This is a quick markdown example
 categories: markdown
-tags: [example]
+tags:
+  - example
 top: 2
-meta: "Viết gì đó"
+meta: Viết gì đó
 banner:
-  photo: 
+  photo:
 ---
 
 - Full layouts `home`, `post`, `tags`, `archive` and `about`.
