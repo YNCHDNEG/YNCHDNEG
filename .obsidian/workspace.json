@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e11f13184299519",
+        "id": "a703297049db31f3",
         "type": "tabs",
         "children": [
           {
-            "id": "c2879958182a37af",
+            "id": "ce8cee17523e6109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-09- Chương 4 - Yêu nhầm chị hai được nhầm em gái.md",
+                "file": "_posts/video/2024-08-09- Phần 2 - Yêu nhầm chị hai được nhầm em gái .md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-09- Chương 4 - Yêu nhầm chị hai được nhầm em gái.md",
+                "file": "_posts/video/2024-08-09- Phần 2 - Yêu nhầm chị hai được nhầm em gái .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-09- Chương 4 - Yêu nhầm chị hai được nhầm em gái.md",
+                "file": "_posts/video/2024-08-09- Phần 2 - Yêu nhầm chị hai được nhầm em gái .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-09- Chương 4 - Yêu nhầm chị hai được nhầm em gái.md"
+                "file": "_posts/video/2024-08-09- Phần 2 - Yêu nhầm chị hai được nhầm em gái .md"
               }
             }
           }
@@ -150,32 +150,44 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c2879958182a37af",
+  "active": "ce8cee17523e6109",
   "lastOpenFiles": [
-    "_site/novel/2024/08/09/Chương-5-10-Yêu-nhầm-chị-hai-được-nhầm-em-gái.html",
-    "_site/novel/2024/08/09/Chương-4-Yêu-nhầm-chị-hai-được-nhầm-em-gái.html",
-    "_site/assets/template/simple-template.html",
-    "_site/assets/template/01 story template.html",
+    "_site/assets/images/audio/audio1.jpeg",
+    "_site/assets/images/audio/audio2.jpeg",
+    "_site/assets/images/audio",
+    "assets/images/audio/audio2.jpeg",
+    "assets/images/audio/Designer (1).jpeg.crdownload",
+    "_site/audio/2024/08/09/Phần-1-Yêu-nhầm-chị-hai-được-nhầm-em-gái.html",
+    "_site/2024/08/09/2024-08-09-Phần-1-Yêu-nhầm-chị-hai-được-nhầm-em-gái.html",
+    "_site/2024/08/09",
+    "_site/2024/08",
+    "_site/2024",
+    "assets/images/audio/audio1.jpeg",
+    "_site/audio/2024/08/09/Phần-2-Yêu-nhầm-chị-hai-được-nhầm-em-gái.html",
+    "_site/audio/2024/08/09",
+    "_site/audio/2024/08",
+    "_posts/video/2024-08-09- Phần 1 - Yêu nhầm chị hai được nhầm em gái.md",
+    "_posts/2024-08-09- Chương 5 -  10 - Yêu nhầm chị hai được nhầm em gái.md",
+    "_posts/2024-08-09- Giới Thiệu Truyện Yêu Nhầm Chị Hai Được Nhầm Em Gái.md",
+    "_posts/video/2024-08-09- Phần 2 - Yêu nhầm chị hai được nhầm em gái .md",
+    "assets/template/2024-08-09- Phần x - Yêu nhầm chị hai được nhầm em gái.md",
+    "_posts/video/2024-08-09- Phần 1 - Yêu nhầm chị hai được nhầm em gái .md",
+    "_posts/video/2024-08-09- Phần 1 - Yêu nhầm chị hai được nhầm em gái copy.md",
+    "_posts/video/2024-08 - Phần 1 - Yêu nhầm chị hai được nhầm em gái.md",
+    "_posts/[(23).md",
+    "_posts/2024-08-09- Chương 4 - Yêu nhầm chị hai được nhầm em gái.md",
+    "_site/assets/images/post/post5-10.jpeg",
+    "_site/assets/images/post/post4.jpeg",
     "assets/images/post/post5-10.jpeg",
-    "assets/images/post/Designer.jpeg.crdownload",
     "assets/images/post/post4.jpeg",
     "_posts/2024-08-09- Chương 3 - Yêu nhầm chị hai được nhầm em gái.md",
-    "_posts/2024-08-09- Chương 5 -  10 - Yêu nhầm chị hai được nhầm em gái.md",
     "_posts/2024-08-09- Chương 1 - Yêu nhầm chị hai được nhầm em gái.md",
     "_posts/2024-08-09- Chương 6 - Yêu nhầm chị hai được nhầm em gái.md",
     "assets/template/01 story template.md",
-    "_posts/2024-08-09- Giới Thiệu Truyện Yêu Nhầm Chị Hai Được Nhầm Em Gái.md",
-    "_posts/2024-08-09- Chương 4 - Yêu nhầm chị hai được nhầm em gái.md",
     "assets/template/simple-template.md",
     "_posts/2024-08-09- Chương 2 - Yêu nhầm chị hai được nhầm em gái.md",
-    "_posts/video",
-    "_posts/music",
-    "_posts/Video",
-    "_site/novel/2024/08/09/Chương-3-Yêu-nhầm-chị-hai-được-nhầm-em-gái.html",
     "_site/Untitled.canvas",
-    "_site/assets/template/story template.html",
     "Untitled.canvas",
-    "_posts/1-100",
     "_posts/2024-09-08- Chương 3 - Yêu nhầm chị hai được nhầm em.md",
     "_posts/2016-01-01-another-test-markdown.md",
     "_posts/2017-06-10-quick-mardown-example.md",
@@ -187,18 +199,6 @@
     "_site/assets/images/post/post1.jpeg",
     "_posts/2024-08-09-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
     "assets/images/post/post2.jpeg",
-    "assets/images/post/post1.jpeg",
-    "_site/assets/images/icon/relationship.png",
-    "assets/images/icon/relationship.png",
-    "_posts/2023-06-08-Tạo blog phong cách tối giản với Github Pages và Jekyll.md",
-    "_posts/2023-04-08-Thiết lập Digital Garden với Jekyll và Github Page.md",
-    "_posts/2017-12-08-mermaid-example.md",
-    "_posts/2017-12-15-table-example.md",
-    "_posts/2023-04-10-Stop Overthinking.md",
-    "_posts/2023-04-16-The forgetting curve.md",
-    "_posts/2023-04-17-Executive Presentation Guide.md",
-    "_posts/2023-05-22-The imperfectionists.md",
-    "_site/assets/images/unlayer-email-editor-export-html.jpg",
-    "_site/assets/images/colab-rename-env-template.png"
+    "_posts/2023-06-08-Tạo blog phong cách tối giản với Github Pages và Jekyll.md"
   ]
 }

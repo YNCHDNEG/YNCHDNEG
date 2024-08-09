@@ -1,8 +1,8 @@
 ---
-title: Chương 5 - Yêu nhầm chị hai được nhầm em gái
+title: Chương 5 - 10 Yêu nhầm chị hai được nhầm em gái
 date: 2024-08-09
 banner:
-  image: "../assets/images/post/post5-10.jpeg"
+  image: ../assets/images/post/post5-10.jpeg
 tags:
   - 0-100
 category:

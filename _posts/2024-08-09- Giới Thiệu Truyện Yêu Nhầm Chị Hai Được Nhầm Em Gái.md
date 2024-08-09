@@ -3,7 +3,7 @@ title: Giới Thiệu Truyện Yêu Nhầm Chị Hai Được Nhầm Em Gái
 date: 2024-08-09
 layout: post
 category:
-  - novel
+  - intro 
 tags:
   - intro
 banner:
