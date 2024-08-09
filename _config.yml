@@ -51,7 +51,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Chúc các đạo hữu đọc truyện vui vẻ!!!
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://trieuphi.github.io/" # the base hostname & protocol for your site, e.g. https://trieuphi.github.io/
+url: "https://ynchdneg.github.io/" # the base hostname & protocol for your site, e.g. https://trieuphi.github.io/
 favicon: "" # the favicon for your site
 
 # Yat date format
